@@ -1,0 +1,72 @@
+.logo {
+	width:100px;
+	height:100px;
+}
+.container > .header {
+	border:1px dashed blue;
+	//height:200px;
+}
+
+.container > .row > .sidebar {
+	border:1px dashed red;
+	height:auto;
+}
+
+.container > .row > .sidebar > ul {
+	//border:1px solid green;
+	list-style:none;
+	padding:0;
+	//padding-left:15px;
+	#background-color:#555;
+}
+.container > .row > .sidebar > ul > li {
+	//background-color:blue;
+	margin:2px;
+}
+.container > .row > .sidebar > ul > li  > span{
+	//background-color:blue;
+	display:block;
+	background-color:green;
+	margin:2px;
+	padding-left:15px;
+}
+
+.container > .row > .sidebar > ul > li  > ul {
+	display:block;
+	list-style:none;
+	//padding-left:30px;
+	//background-color:yellow;
+	padding-left:30px;
+}
+
+.container > .row > .sidebar > ul > li  > ul > li {
+	background-color:red;
+	padding:10px;
+	margin-bottom:2px;
+}
+
+.container > .row > .content {
+	border:1px dashed green;
+	height:200px;
+}
+
+.container > .footer {
+	border:1px dashed cyan;
+	height:200px;
+}
+
+.bggreen {
+	background-color:green;
+}
+.bgblue {
+	background-color:blue;
+}
+.bgred {
+	background-color:red;
+}
+.bgyellow {
+	background-color:yellow;
+}
+.bgcyan {
+	background-color:cyan;
+}

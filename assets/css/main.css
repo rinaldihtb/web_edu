@@ -1,58 +1,186 @@
+/* SET TO NORMALIZE CSS */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* START */
+body {
+    overflow:hidden;
+}
+
+/* HEADER */
+
+.container > .header, .container-fluid > .header {
+	//border:1px dashed green;
+	//height:200px;
+}
+
 .logo {
 	width:100px;
 	height:100px;
 }
-.container > .header {
-	border:1px dashed blue;
-	//height:200px;
+
+
+/* MENUBAR */
+.panel_heading {
+	display:block; 
+	#background-color: green;
+	margin: 5px 0;
+	border: 1px solid green;
 }
 
-.container > .row > .sidebar {
-	border:1px dashed red;
+.panel_heading > ul {
+	width: auto;
+	height: auto;
+	display: block;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+
+.panel_heading > ul > li{
+	background-color: yellow;
+	display: inline-block;
+	padding : 10px 20px;
+}
+
+.panel_heading > ul > li:hover{
+	background-color: green;
+	cursor: pointer;
+	color: white;
+}
+
+.panel_heading > ul > li:hover ul{
+	display: block;
+}
+
+.panel_heading > ul > li > ul{
+	background-color: red;
+	display: none;
+	position: absolute;
+	list-style-type: none;
+	margin: 0;
+	margin-left:-20px;
+	padding: 0;
+	z-index: 1;
+	top: 45px;
+}
+
+.panel_heading > ul > li > ul > li{
+	padding: 10px 20px;
+	margin: 0px;
+	display: block;
+	background-color: green;
+}
+
+.panel_heading > ul > li > ul > li:hover{
+	background-color: blue;
+}
+
+/* SIDEBAR */
+.container > .row > .sidebar, .container-fluid > .row > .sidebar {
+	//border:1px dashed red;
 	height:auto;
 }
 
-.container > .row > .sidebar > ul {
+.container > .row > .sidebar > ul.menu_sidebar, .containter-fluid > .row > .sidebar > ul.menu_sidebar {
+	background:blue;
 	//border:1px solid green;
 	list-style:none;
 	padding:0;
 	//padding-left:15px;
-	#background-color:#555;
+	background-color:#555;
 }
-.container > .row > .sidebar > ul > li {
+.container > .row > .sidebar > ul > li, .container-fluid > .row > .sidebar > ul > li {
 	//background-color:blue;
-	margin:2px;
+	//margin:2px;
 }
-.container > .row > .sidebar > ul > li  > span{
-	//background-color:blue;
-	display:block;
+.container > .row > .sidebar > ul > li  > span, .container-fluid > .row > .sidebar > ul > li  > span{
+	padding: 5px;
+	padding-left: 2px;
+	margin: 0px;
 	background-color:green;
-	margin:2px;
+	display:block;
+	//background-color:green;
+	//margin:2px;
 	padding-left:15px;
 }
 
-.container > .row > .sidebar > ul > li  > ul {
+.container > .row > .sidebar > ul > li  > ul, .container-fluid > .row > .sidebar > ul > li  > ul {
 	display:block;
 	list-style:none;
 	//padding-left:30px;
 	//background-color:yellow;
-	padding-left:30px;
+	padding: 0px;
+	//padding-left: 1px;
+	//padding-left:30px;
 }
 
-.container > .row > .sidebar > ul > li  > ul > li {
-	background-color:red;
-	padding:10px;
-	margin-bottom:2px;
+.container > .row > .sidebar > ul > li  > ul > li, .container-fluid > .row > .sidebar > ul > li  > ul > li {
+	//margin: 0;
+	background-color:#99FFCC;
+	padding: 5px;
+	padding-left: 30px;
+	//margin-left: 0px;
+	//margin-bottom:2px;
 }
 
-.container > .row > .content {
-	border:1px dashed green;
+.container > .row > .sidebar > ul > li  > ul > li:hover, .container-fluid > .row > .sidebar > ul > li  > ul > li:hover {
+	background-color:#CCFFFF;
+
+}
+
+
+/* CONTENT */
+.container > .row > .content, .container-fluid > .row > .content {
+	//border:1px dashed green;
 	height:200px;
 }
 
-.container > .footer {
-	border:1px dashed cyan;
-	height:200px;
+.container > .footer, .container-fluid > .footer {
+	//border:1px dashed cyan;
+	height:auto;
 }
 
 .bggreen {

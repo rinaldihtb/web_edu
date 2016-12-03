@@ -1,0 +1,1425 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"listst",
+				"list-style-type"
+			],
+			[
+				"list-s",
+				"list-style-position"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"tr",
+				"trxresponse"
+			],
+			[
+				"trx",
+				"trxid"
+			],
+			[
+				"bca_klik",
+				"bca_klikpay_2_3"
+			],
+			[
+				"payment_me",
+				"payment_method_code"
+			],
+			[
+				"bca_kli",
+				"bca_klikpay_2"
+			],
+			[
+				"klikPa",
+				"klikPay_installment"
+			],
+			[
+				"data",
+				"dataSprint"
+			],
+			[
+				"add",
+				"additionalData"
+			],
+			[
+				"update",
+				"updateDataPayment"
+			],
+			[
+				"Resp",
+				"Response_code"
+			],
+			[
+				"reason",
+				"reason_english"
+			],
+			[
+				"transaction",
+				"transactionNo"
+			],
+			[
+				"sign",
+				"signature"
+			],
+			[
+				"date",
+				"datetimenow"
+			],
+			[
+				"model_",
+				"model_sprint_bca_klikpay_2"
+			],
+			[
+				"backgro",
+				"background_yellow"
+			],
+			[
+				"payment",
+				"payment_method"
+			],
+			[
+				"mail",
+				"mailVerify"
+			],
+			[
+				"curren",
+				"currency"
+			],
+			[
+				"PHP",
+				"PHPExcel"
+			],
+			[
+				"chek",
+				"check_type"
+			],
+			[
+				"lorem",
+				"lorem	HTML - Lorem Ipsum"
+			],
+			[
+				"las",
+				"lasTotal"
+			],
+			[
+				"shipping",
+				"shipping_method"
+			],
+			[
+				"shippin",
+				"shipping_method"
+			],
+			[
+				"tex",
+				"text"
+			],
+			[
+				"se",
+				"selectSHip"
+			],
+			[
+				"wat",
+				"watch_check"
+			],
+			[
+				"iso_",
+				"iso_code_2"
+			],
+			[
+				"sele",
+				"selectedObj"
+			],
+			[
+				"selec",
+				"selected"
+			],
+			[
+				"vo",
+				"voucher_data"
+			],
+			[
+				"cust",
+				"customer_detail"
+			],
+			[
+				"special",
+				"special_item"
+			],
+			[
+				"speci",
+				"special_items"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"cus",
+				"cust_temp"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"script",
+				"script	<script>"
+			],
+			[
+				"sty",
+				"style	HTML - Stylesheet link"
+			],
+			[
+				"ip",
+				"ipAddress"
+			],
+			[
+				"key",
+				"keyCode"
+			],
+			[
+				"selecte",
+				"SELECTED	option"
+			],
+			[
+				"manufa",
+				"manufacturer_info"
+			],
+			[
+				"manufact",
+				"manufacturer"
+			],
+			[
+				"name",
+				"name_array"
+			],
+			[
+				"nam",
+				"name_array"
+			],
+			[
+				"array_p",
+				"array_pop"
+			],
+			[
+				"brand",
+				"brand_name"
+			],
+			[
+				"count",
+				"counter_2"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"html_e",
+				"html_entity_decode"
+			],
+			[
+				"prod",
+				"products"
+			],
+			[
+				"produ",
+				"products"
+			],
+			[
+				"product",
+				"products"
+			],
+			[
+				"manufac",
+				"manufacturer_id"
+			],
+			[
+				"Product",
+				"product_id"
+			],
+			[
+				"manufactur",
+				"manufacturer_id"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"modu",
+				"module_data"
+			],
+			[
+				"font-size",
+				"font-size-adjust"
+			],
+			[
+				"scri",
+				"script	HTML - Script"
+			],
+			[
+				"catego",
+				"category_id"
+			],
+			[
+				"pa",
+				"Paid"
+			],
+			[
+				"order",
+				"order_c"
+			],
+			[
+				"filter_pri",
+				"filter_price"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"category_",
+				"category_info"
+			],
+			[
+				"sql_temp",
+				"sql_temp_join"
+			],
+			[
+				"price_",
+				"price_to"
+			],
+			[
+				"filter",
+				"filter_price"
+			],
+			[
+				"check",
+				"checked	input"
+			],
+			[
+				"alert",
+				"alert:danger:l	danger_link"
+			],
+			[
+				"head",
+				"header	<header>"
+			],
+			[
+				"url_",
+				"url_t"
+			],
+			[
+				"url",
+				"url_t"
+			],
+			[
+				"row",
+				"row_tampun_f"
+			],
+			[
+				"r",
+				"row_tampung"
+			],
+			[
+				"extra",
+				"extracolor"
+			],
+			[
+				"crit",
+				"criteo_final"
+			],
+			[
+				"ce",
+				"cek_single"
+			],
+			[
+				"erro",
+				"error_t"
+			],
+			[
+				"datep",
+				"datepick"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"ext",
+				"extracolor"
+			],
+			[
+				"quer",
+				"query_array"
+			],
+			[
+				"save",
+				"save_csv"
+			],
+			[
+				"moel",
+				"model_account_customer"
+			],
+			[
+				"customer",
+				"customer_info"
+			],
+			[
+				"array",
+				"array_data"
+			],
+			[
+				"acc",
+				"acceptTime"
+			],
+			[
+				"obje",
+				"objectToArray"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"qui",
+				"quiz_name"
+			],
+			[
+				"quiz",
+				"quiz_answer"
+			],
+			[
+				"on",
+				"onmouseout	Attr"
+			],
+			[
+				"st",
+				"style	HTML - Stylesheet link"
+			],
+			[
+				"products",
+				"products_compare"
+			],
+			[
+				"button",
+				"button	<button>"
+			],
+			[
+				"t",
+				"th	<th>"
+			],
+			[
+				"date_add",
+				"date_added"
+			],
+			[
+				"s",
+				"style	<style>"
+			],
+			[
+				"manu",
+				"manufacturer_id"
+			],
+			[
+				"if",
+				"iframe	<iframe>"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"hidde",
+				"hidden-xs"
+			],
+			[
+				"bank",
+				"bank_transfer"
+			],
+			[
+				"text_ord",
+				"text_order_confirmation"
+			],
+			[
+				"tra",
+				"transfer_value"
+			],
+			[
+				"error_tr",
+				"error_transfer_value"
+			],
+			[
+				"tran",
+				"transfer_date"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onmou",
+				"onmouseover	Attr"
+			],
+			[
+				"img",
+				"getImage"
+			],
+			[
+				"td",
+				"td	<td>"
+			],
+			[
+				"vid",
+				"video	<video>"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"ord",
+				"order_confirmation"
+			],
+			[
+				"order_",
+				"order_confirmation"
+			],
+			[
+				"va",
+				"value	Attr"
+			],
+			[
+				"model",
+				"model_sale_order"
+			],
+			[
+				"es",
+				"escape"
+			],
+			[
+				"el",
+				"else"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/latihan/develop_mode/demo/advanced.html",
+			"settings":
+			{
+				"buffer_size": 2137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "admin_edu/apps/views/header.php",
+			"settings":
+			{
+				"buffer_size": 1577,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "apps/views/common/header.php",
+			"settings":
+			{
+				"buffer_size": 3645,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "apps/controllers/media.php",
+			"settings":
+			{
+				"buffer_size": 224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "apps/views/common/sidebar.php",
+			"settings":
+			{
+				"buffer_size": 959,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "apps/views/common/content.php",
+			"settings":
+			{
+				"buffer_size": 303,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "apps/views/common/footer.php",
+			"settings":
+			{
+				"buffer_size": 360,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/mmenu.css",
+			"settings":
+			{
+				"buffer_size": 784,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "assets/css/main.css",
+			"settings":
+			{
+				"buffer_size": 3858,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: <progress>"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/web_edu",
+		"/C/xampp/htdocs/web_edu/apps",
+		"/C/xampp/htdocs/web_edu/apps/controllers",
+		"/C/xampp/htdocs/web_edu/apps/models",
+		"/C/xampp/htdocs/web_edu/apps/views",
+		"/C/xampp/htdocs/web_edu/apps/views/common",
+		"/C/xampp/htdocs/web_edu/apps/views/route"
+	],
+	"file_history":
+	[
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/shipping_payment_method.tpl",
+		"/C/xampp/htdocs/latihan/catalog/model/payment/bca_klikpay_2_3.php",
+		"/C/xampp/htdocs/latihan/catalog/controller/payment/bca_klikpay_2_3.php",
+		"/C/xampp/htdocs/latihan/catalog/language/english/payment/bca_klikpay_2.php",
+		"/C/xampp/htdocs/latihan/catalog/view/theme/new_look_2015/template/payment/bca_klikpay_2_3.tpl",
+		"/C/xampp/htdocs/latihan/catalog/language/indonesia/checkout/success.php",
+		"/C/xampp/htdocs/latihan/catalog/language/english/checkout/success.php",
+		"/C/xampp/htdocs/latihan/catalog/view/theme/new_look_2015/template/common/success.tpl",
+		"/C/xampp/htdocs/latihan/catalog/view/theme/new_look_2015/template/checkout/shipping_payment_method.tpl",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/redirect 3.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/redirect 2.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/redirect.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/success.tpl",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bcaklikpay_paymentflag.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/success.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/confirm.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/order.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bca_klikpay_2.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bca_klikpay_2_12.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bca_klikpay_2_6 2.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bca_klikpay_2_3 2.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bca_cc_2 2.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bca_cc_2.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bca_klikpay_2_12 2.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bca_klikpay_2 3.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bca_klikpay_2_6.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bca_klikpay_2_3.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bca_klikpay_2 2.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bcaklikpay_inquiry.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/doku_test.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/doku_verify.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/bca_cicilan_3.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/bcaklikpay_inquiry.php",
+		"/C/xampp/htdocs/latihan/catalog/view/theme/new_look_2015/template/payment/bca_klikpay_2_12.tpl",
+		"/C/xampp/htdocs/latihan/catalog/model/payment/bca_klikpay_2_12.php",
+		"/C/xampp/htdocs/latihan/catalog/language/indonesia/payment/bca_klikpay_2_12.php",
+		"/C/xampp/htdocs/latihan/catalog/controller/checkout/shipping_payment_method.php",
+		"/C/xampp/htdocs/latihan/catalog/model/payment/bca_klikpay_2_6.php",
+		"/C/xampp/htdocs/latihan/catalog/controller/payment/bca_cicilan_12.php",
+		"/C/xampp/htdocs/latihan/catalog/model/checkout/order.php",
+		"/C/xampp/htdocs/latihan/catalog/model/sprint/bca_klikpay_2.php",
+		"/C/xampp/htdocs/latihan/catalog/controller/checkout/success.php",
+		"/C/xampp/htdocs/latihan/catalog/controller/checkout/confirm.php",
+		"/C/xampp/htdocs/latihan/aurelleaja/view/template/payment/bca_klikpay_2_12.tpl",
+		"/C/xampp/htdocs/latihan/aurelleaja/language/english/payment/bca_klikpay_2_12.php",
+		"/C/xampp/htdocs/latihan/aurelleaja/language/english/payment/bca_klikpay_2_6.php",
+		"/C/xampp/htdocs/latihan/aurelleaja/controller/payment/bca_klikpay_2_12.php",
+		"/C/xampp/htdocs/latihan/catalog/language/english/payment/bca_klikpay_2_12.php",
+		"/C/xampp/htdocs/latihan/catalog/controller/payment/bca_klikpay_2_12.php",
+		"/C/xampp/htdocs/latihan/catalog/language/indonesia/payment/bca_klikpay_2_3.php",
+		"/C/xampp/htdocs/latihan/catalog/language/english/payment/bca_klikpay_2_6.php",
+		"/C/xampp/htdocs/latihan/catalog/language/english/payment/mandiri_cicilan_3.php",
+		"/C/xampp/htdocs/latihan/catalog/language/english/payment/bca_klikpay_2_3.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/checkout.tpl",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/confirm.php",
+		"/C/xampp/htdocs/latihan/catalog/model/payment/bca_cicilan_12.php",
+		"/C/xampp/htdocs/latihan/catalog/controller/payment/mandiri_cicilan_3.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/footer.tpl",
+		"/C/xampp/htdocs/latihan/catalog/view/theme/new_look_2015/template/payment/mandiri_cicilan_3.tpl",
+		"/C/xampp/htdocs/latihan/catalog/controller/payment/bca_cicilan_6.php",
+		"/C/xampp/htdocs/latihan/catalog/controller/payment/bca_cicilan_3.php",
+		"/C/xampp/htdocs/latihan/aurelleaja/controller/payment/bca_klikpay_2_6.php",
+		"/C/xampp/htdocs/latihan/catalog/view/theme/new_look_2015/template/checkout/checkout.tpl",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/shipping_payment_method.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/shipping_payment_method.tpl",
+		"/C/xampp/htdocs/latihan/develop_mode/index.html",
+		"/C/xampp/htdocs/latihan/develop_mode/demo/onepage.html",
+		"/C/xampp/htdocs/latihan/develop_mode/demo/default.html",
+		"/C/xampp/htdocs/web_edu/index.php",
+		"/C/xampp/htdocs/web_edu/README.md",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/product.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/order.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/login.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/footer.tpl",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/logout.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/citywalk.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/header.tpl",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/newsletter.tpl",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/bcaklikpay_paymentflag.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/success.tpl",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/redirect 3.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/redirect 2.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/redirect 4.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/redirect.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/bca_klikpay_2_success.tpl",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/bca_klikpay_2.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/redirect.tpl",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/home.tpl",
+		"/C/xampp/htdocs/latihan/catalog/controller/sprint/bcaklikpay_paymentflag.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/bca_klikpay_2 3.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/bca_klikpay_2 4.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/bca_klikpay_2 2.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/success.php",
+		"/C/xampp/htdocs/latihan/catalog/model/payment/bca_klikpay_2.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/confirm.tpl",
+		"/C/xampp/htdocs/latihan/aurelleaja/model/sale/order.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/newsletter.tpl",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/information.tpl",
+		"/C/xampp/htdocs/latihan/catalog/controller/product/a_season_of_luxury_watch.php",
+		"/C/xampp/htdocs/latihan/catalog/controller/sprint/success.php",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-3/home.php",
+		"/C/Users/Pc/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Pc/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/C/xampp/htdocs/latihan/catalog/controller/payment/bca_cc_2.php",
+		"/C/Users/Pc/Desktop/Sprint/klikpaykeys.php",
+		"/C/xampp/htdocs/latihan/catalog/model/payment/bca_cc_2.php",
+		"/C/xampp/htdocs/latihan/catalog/model/tool/image.php",
+		"/C/xampp/htdocs/latihan/catalog/model/sprint/redirect.php",
+		"/C/xampp/htdocs/latihan/catalog/view/theme/new_look_2015/stylesheet/product.css",
+		"/C/xampp/htdocs/latihan/catalog/view/theme/new_look_2015/stylesheet/stylesheet.css",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/stylesheet.css",
+		"/D/rinaldi/Newsletter/2016/November/Newsletter 5-11-16/Newsletter-5-11-16.html",
+		"/C/xampp/htdocs/latihan/catalog/view/theme/new_look_2015/template/product/product.tpl",
+		"/C/xampp/htdocs/latihan/citywalkadminzz/controller/sale/order.php",
+		"/C/xampp/htdocs/latihan/catalog/controller/payment/bca_klikpay_2.php",
+		"/C/xampp/htdocs/latihan/aurelleaja/view/template/payment/bca_klikpay_2.tpl",
+		"/C/xampp/htdocs/latihan/aurelleaja/controller/payment/bca_klikpay_2.php",
+		"/C/xampp/htdocs/latihan/aurelleaja/view/stylesheet/stylesheet.css",
+		"/C/xampp/htdocs/latihan/aurelleaja/controller/common/home.php",
+		"/C/xampp/htdocs/latihan/aurelleaja/view/template/common/home.tpl",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/home.tpl",
+		"/C/xampp/htdocs/latihan/aurelleaja/controller/sale/order.php",
+		"/C/xampp/htdocs/latihan/aurelleaja/view/template/sale/order_list.tpl",
+		"/C/Users/Pc/AppData/Local/Temp/fz3temp-2/order_list.tpl",
+		"/C/xampp/htdocs/latihan/system/pear/Console/Getopt.php",
+		"/C/Users/Pc/AppData/Roaming/Skype/My Skype Received Files/Newsletter-12-11-16.html",
+		"/C/xampp/htdocs/latihan/catalog/language/english/payment/bca_cc_2 - Copy.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"footer",
+			"panel",
+			"panel-heading",
+			"klikpay_2",
+			"installment",
+			"amount",
+			"misc",
+			"klikpay_2",
+			"shipping_method']['cos",
+			"shipping_method']",
+			"cost",
+			"$total",
+			"totalamount",
+			"klikpay",
+			"tripledes",
+			"<pre>",
+			"trace",
+			"klikpay_2",
+			"<pre",
+			"pre",
+			"<pre>",
+			"signature",
+			"<pre",
+			"klikpay_2",
+			"klik_pay",
+			"klikpay_2",
+			"tenor",
+			"//",
+			"menu_sidebar",
+			"bca_klikpay_2",
+			"klikpay_2",
+			"bca_klikpay_2",
+			"unset",
+			"bca_klikpay_2",
+			"klikpay_2",
+			"klikpay",
+			"unset",
+			"klikpay_2",
+			"pre",
+			"unset",
+			"klikpay_2",
+			"klikpay2",
+			"klikpay_2",
+			"<pre",
+			"bca_klik",
+			"payment_methods",
+			"payment_method",
+			"bca_klikpay",
+			"popup",
+			"select",
+			"bcatest",
+			"bca_klikpay_2_6",
+			"bca_klikpay_2_3",
+			"bca_klikpay_2",
+			"bca_klikpay_2_6",
+			"bca_klikpay_2_3",
+			"bca_klikpay_2",
+			"3x",
+			"bca_klikpay_2_6",
+			"bca_klikpay_2",
+			"bca_klikpay_2_6",
+			"bca_klikpay_2_3",
+			"bca_klikpay_2",
+			"bcaTES",
+			"bca_klik",
+			"bca_klik_pay",
+			"form",
+			"lanjutkan",
+			"$data['payment_code']",
+			"topcontent",
+			"topfoots",
+			"topheads",
+			"footer",
+			"header",
+			"products",
+			"pop",
+			"flash-deals",
+			"pop",
+			"colorbox",
+			"popup",
+			"pop",
+			"pop_up",
+			"pop-up",
+			"mailverify",
+			"Response_code",
+			"Response_code\n",
+			"bca_klikpay_2",
+			"bca_cc_2",
+			"klikpay",
+			"rende",
+			"coupon",
+			"render",
+			"pre>",
+			"pre",
+			"bca_cc_2",
+			"bca_cc",
+			"rd50",
+			"pre",
+			"$this->data['payment_methods']",
+			"$this->data['payment_method']",
+			"$this->data['payment_method'",
+			"payment_method",
+			"bca_cc_2",
+			"bca_cc",
+			"bca_klikpay",
+			"bca_cc",
+			"bca_test",
+			"BCATEST",
+			"bca_cc",
+			"bca_klikpay",
+			"bca_klikpay_2",
+			"bca_klikpay",
+			"klikpay",
+			"approvalCOde",
+			"$order_is",
+			"orderhas",
+			"'sprint",
+			"select",
+			"return",
+			"query->rows",
+			"signature",
+			"order_is_expired",
+			"order_is_expired\n",
+			"bca_klikpay",
+			"match",
+			"transactionDate",
+			"klikpayco",
+			"klikpay"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bca_klikpay_2_installment",
+			"bca_klikpay_2_12",
+			"bca_klikpay_2_6",
+			"bca_klikpay_2_3",
+			"bca_klikpay_2_12",
+			"bca_klikpay_2_6",
+			"bca_klikpay_2_3",
+			"12x",
+			"6x",
+			"bca_klikpay_2_12",
+			"bca_klikpay_2_6",
+			"bca_klikpay_2_3",
+			"bca_klikpay_2_12",
+			"bca_klikpay_2_6",
+			"bca_klikpay_2_3",
+			"mmcontents",
+			"mmfoots",
+			"mmheads",
+			"topfoots",
+			"topheads",
+			"bca_klikpay_2_",
+			"callback",
+			"payType",
+			"code",
+			"bca_klikpay_2",
+			"Klik Pay",
+			"bca_klikpay_2",
+			"'",
+			"",
+			"bca_cc_2",
+			"citywalkadminzz",
+			"/home/radatime/",
+			"$this->model_shipping_method->countWatchesProduct",
+			"$this->model_shipping_method->countBoxWatches()",
+			"$this->model_shipping_method->countWatchesProduct",
+			"sale/order_rcw",
+			"order_rcw",
+			"firstname",
+			"order_rcw",
+			" <a class=\"btn btn-primary\" href=\"http://www.radatime.co.id/jam-tangan-rado-hyperchrome&stock=1\">all collection</a>",
+			" <a class=\"col-xs-6 col-xs-offset-3 col-sm-2 col-sm-offset-5 btn btn-primary\" ",
+			" <a class=\"col-xs-5 col-xs-offset-3 col-sm-2 col-sm-offset-5 btn btn-primary\" ",
+			"<a class=\"col-xs-3 col-xs-offset-9 col-sm-2 col-sm-offset-5 btn btn-primary\" href=\"#\">more collection</a>",
+			"style=\"/*box-shadow: 0px -7px 10px -10px #8c8b8b inset;*/\"",
+			"/*style=\"box-shadow: 0px -7px 10px -10px #8c8b8b inset;\"*/",
+			"subs",
+			"jpg\"><span>asd</span></a>",
+			"<a href=\"#\"><img",
+			"<img",
+			"",
+			"border:0px",
+			"<span style=\" display:block; cursor:pointer; text-decoration:none; font-weight:bold;\">",
+			"'",
+			"tab-order",
+			"cicilan_18",
+			"'",
+			"mysqli_",
+			"img id=\"bar\"",
+			"src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"img id=\"bar\"",
+			"src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"img id=\"bar\"",
+			"src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"img id=\"bar\"",
+			"src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"img id=\"bar\"",
+			"alt=\"\" style=\"display:block;\">",
+			"src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"alt=\"display:block;\"",
+			"src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"img id=\"bar\"",
+			"alt=\"\" style=\"display:block;\"",
+			"style=\"display:block;\"",
+			"src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"img id=\"bar\"",
+			"src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"img id=\"bar\"",
+			"alt=\"\" style=\"display:block;\"",
+			"src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"padding-right: 30px;",
+			"padding-right: 30px",
+			"padding-right: 25px",
+			"<img id=\"bar\"",
+			"alt=\"\" style=\"display:block;\"",
+			"src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"alt=\"\" display=\"display:block\";",
+			"src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"display:block",
+			"alt=\"\" style=\"display:none;\"",
+			"<img id=\"bar\"",
+			"src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"img id=\"bar\"",
+			"alt=\"\" style=\"display:block;\"",
+			"src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"<img src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"<img id=\"bar\"",
+			"<tr id=\"bar\">",
+			"alt=\"\" style=\"display:block;\"",
+			"<img src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			">",
+			"",
+			"<img alt=\"\" style=\"display:block;\"  src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"",
+			"alt=\"\" style=\"display:block;\"",
+			"<img src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"alt=\"\" style=\"display:block;\"",
+			">",
+			"<img alt=\"\" style=\"display:block;\"  src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"",
+			"alt=\"\" style=\"display:block;\"",
+			"<img alt=\"\" height=\"158\" src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"alt=\"\" style=\"display:block;\"",
+			"<img src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"alt=\"\" style=\"display:block;\"",
+			"<img src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"",
+			"alt=\"\" style=\"display:block;\"",
+			"<img alt=\"\" height=\"141\" src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"alt=\"\" style=\"display:block;\"",
+			"<img alt=\"\"  src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"alt=\"\" style=\"display:block;\"",
+			"<img src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"",
+			"alt=\"\" style=\"display:block;\"",
+			"<img height=\"153\" src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"style=\"display:block;\"",
+			"<img alt=\"\" src=\"http://radatime.co.id/dada_mail_support_files/file_uploads/images/",
+			"alt=\"\" style=\"display:block;\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/latihan/develop_mode/demo/advanced.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1310,
+								2119
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 225.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "admin_edu/apps/views/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1577,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1577,
+								1577
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 155.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "apps/views/common/header.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3287,
+								3287
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1232.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "apps/controllers/media.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "apps/views/common/sidebar.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 959,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "apps/views/common/content.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 303,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "apps/views/common/footer.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 360,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								201,
+								201
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "assets/css/mmenu.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "assets/css/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3858,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1670,
+								1670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1135.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"project": "web_edu.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"get",
+				"system\\pear\\Console\\Getopt.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

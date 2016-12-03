@@ -1,0 +1,68 @@
+nav:not(.mm-menu)
+{
+	display: none;
+}
+
+.mmheads,
+.mmcontents,
+.mmfoots
+{
+	text-align: center;
+}
+.mmheads,
+.mmfoots
+{
+	background: #777;
+	font-size: 16px;
+	font-weight: bold;
+	color: #fff;
+	line-height: 40px;
+
+
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;	
+	width: 100%;
+	height: 40px;
+	padding: 0 50px;
+}
+.mmheads.fixed
+{
+	position: fixed;
+	top: 0;
+	left: 0;
+}
+.mmfoots.fixed
+{
+	position: fixed;
+	bottom: 0;
+	left: 0;
+}
+.mmheads a
+{
+	display: block;
+	width: 50px;
+	height: 18px;
+	padding: 11px;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+.mmheads a:before,
+.mmheads a:after
+{
+	content: '';
+	display: block;
+	background: #fff;
+	height: 2px;
+}
+.mmheads a span
+{
+	background: #fff;
+	display: block;
+	height: 2px;
+	margin: 6px 0;
+}
+.mmcontents
+{
+	padding: 150px 50px 50px 50px;
+}
