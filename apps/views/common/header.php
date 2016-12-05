@@ -1,3 +1,4 @@
+<html>
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -57,7 +58,7 @@
 </head>
 <body>
 <!-- FOR EVERY DEVICES EXCEPT MOBILE -->
-<div class="container-fluid content hidden-xs">
+<div class="container content hidden-xs">
 	<div class="row header" >
 		<div class="col-xs-12">
 			<header id="header" class="">
@@ -87,46 +88,34 @@
 					</div>
 				</div>
 			</div>
-			<!-- 
-			<div class="col-xs-5 col-xs-offset-5  col-sm-3 col-sm-offset-7 bgyellow">
-				<div class="row">
-					<div class="col-xs-12 bgblue">
-						<select>
-							<option>Pilih Bahasa</option>
-							<option>Indonesia</option>
-							<option>English</option>
-						</select>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-xs-12 bgred">
-						<input type="text" placeholder="Cari .... "/>
-						<button>Cari</button>
-					</div>
-				</div>
-			</div> 
-			</div>-->
 			</div>
 			</header>
 		</div>
 	</div>
 	</div>
 </div>
-<div class="container-fluid content hidden-xs">
+
+<!-- MENUBAR -->
+<div class="container content hidden-xs">
 	<div class="row menubar ">
 		<div class="col-xs-12">
 			<div class="panel_heading">
 				<ul>
-					<li>Home</li>
+					<li><a href='?route=common/home'>Home</a></li>
 					<li>Tutorial
-					<ul>
-						<li>PEMILIHAN 1</li>
-						<li>PEMILIHAN 2</li>
-						<li>PEMILIHAN 3</li>
-						<li>PEMILIHAN 4</li>
-					</ul>
+						<ul>
+							<li>HTML</li>
+							<li>PHP</li>
+							<li>JAVASCRIPT</li>
+						</ul>
 					</li>
-					<li>About</li>
+					<li><a href='?route=forum/forum'>Forum</a></li>
+					<li>Download
+						<ul>
+							<li>Free Website Template</li>
+						</ul>
+					</li>
+					<li>About Us</li>
 				</ul>
 			</div>	
 		</div>

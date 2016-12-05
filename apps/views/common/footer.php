@@ -1,8 +1,6 @@
-</body>
-
 <!-- FOR EVERY DEVICES EXCEPT MOBILE -->
-<div class="container-fluid hidden-xs">
-	<div class="row footer panel panel-primary">
+<div class="container hidden-xs">
+	<div class="row footer">
 		<div class="col-xs-12 ">
 			<footer class="bggreen">
 				asdasd
@@ -16,3 +14,4 @@
 	<a href="#menu"><span></span></a>
 	FOOTS
 </div>
+</body>

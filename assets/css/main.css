@@ -46,7 +46,7 @@ table {
 
 /* START */
 body {
-    overflow:hidden;
+    //overflow:hidden;
 }
 
 /* HEADER */
@@ -178,9 +178,60 @@ body {
 	height:200px;
 }
 
-.container > .footer, .container-fluid > .footer {
+.container > .footer, .container-fluid > .footer > footer{
 	//border:1px dashed cyan;
 	height:auto;
+}
+
+.show_threads {
+	display: block;
+	border: 1px solid black;
+	margin: 10px 0px;
+	padding: 5px 0px;
+}
+
+.show_threads > .thread_static {
+	float: left;
+	width: 10%;
+	height: auto;
+	background-color: red;
+}
+
+.show_threads > .thread_static > .thread_static_spot {
+	background-color: blue;
+	padding: 5px;
+	text-align: center;
+}
+
+.show_threads > .thread_static > .thread_static_spot > span{
+	display: block;
+}
+
+.show_threads > .thread_details {
+	float: left;
+	width: 90%;
+	background-color: green;
+}
+
+.show_threads > .thread_details > .thread_starter {
+	float: left;
+	width: 50%;
+	background-color: red;
+}
+
+.show_threads > .thread_details > .thread_starter > .thread_date {
+	display: block;
+}
+
+.show_threads > .thread_details > .thread_starter > img{
+	background-color: blue;
+	width: 50px;
+}
+
+.show_threads > .thread_details > .thread_tags {
+	float: left;
+	width: 50%;
+	background-color: yellow;
 }
 
 .bggreen {
@@ -196,5 +247,5 @@ body {
 	background-color:yellow;
 }
 .bgcyan {
-	background-color:cyan;
+	border: 1px dashed cyan;
 }
