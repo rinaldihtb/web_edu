@@ -1,16 +1,48 @@
 <!-- FOR EVERY DEVICES EXCEPT MOBILE -->
 <div class="forumsidebars hidden-xs bgcyan">
 	<div class="subsidebar bgcyan">
-		Post Recently
+		<h4 class="head_sidebar">Recently Post</h4>
+		<ul>
+			<li>Lorem ipsum dolor sit amet, consectetur.
+			<span>Lorem ipsum dolor sit amet...</span>
+			</li>
+			<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+			<span>Lorem ipsum dolor sit amet...</span>
+			</li>
+			<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+			<span>Lorem ipsum dolor sit amet...</span>
+			</li>
+		</ul>
 	</div>
 	<div class="subsidebar bgcyan">
-		Quoted Post
+		<h4 class="head_sidebar">Quoted Post</h4>
+		<ul>
+			<li>Lorem ipsum dolor sit amet, consectetur.
+			<span>Lorem ipsum dolor sit amet...</span>
+			</li>
+			<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+			<span>Lorem ipsum dolor sit amet...</span>
+			</li>
+			<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+			<span>Lorem ipsum dolor sit amet...</span>
+			</li>
+		</ul>
+	</div>
+	<div class="subsidebar_tags bgcyan">
+		<h4 class="head_sidebar">Related Tags</h4>
+		<ul>
+			<li>Lorem</li>
+			<li>ipsum</li>
+			<li>ipsum</li>
+		</ul>
 	</div>
 	<div class="subsidebar bgcyan">
-		Related Tags
-	</div>
-	<div class="subsidebar bgcyan">
-		Hot Threads
+		<h4 class="head_sidebar">Hot Threads</h4>
+		<ul>
+			<li>Lorem ipsum dolor sit amet, consectetur.</li>
+			<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+			<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+		</ul>
 	</div>
 </div>
 

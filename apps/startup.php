@@ -16,13 +16,14 @@ $tools = new Tools();
 // INCLUDING THE SPESIFIC CONTROLLER
 if(isset($_GET['route'])) {
 	$page_control = explode("/",$_GET['route']);
-	$page_path = "{$page_control[0]}/{$page_control[1]}";
+	$controller_path = "{$page_control[0]}/{$page_control[1]}";
+	$page_path = $page_control[0]."/".$page_control[count($page_control)-1];
 
-	if(file_exists("apps/controllers/{$page_path}.php")) {
+	if(file_exists("apps/controllers/{$controller_path}.php")) {
 		/*echo "<pre>";
 		print_r($_SERVER);
 		echo "</pre>";*/
-		include_once "apps/controllers/{$page_path}.php";
+		include_once "apps/controllers/{$controller_path}.php";
 
 		//echo "apps/controllers/{$page_control[0]}/{$page_control[1]}.php";
 		$controller = "Controller";
@@ -36,6 +37,7 @@ if(isset($_GET['route'])) {
 		}
 
 		DEFINE("PAGE", $page_path);
+		DEFINE("Controller", $controller_path);
 		$render = new $controller();
 		if(count($page_control)==3)
 			$render->$page_control[2]();

@@ -115,6 +115,7 @@
 							<li>Free Website Template</li>
 						</ul>
 					</li>
+					<li>News</li>
 					<li>About Us</li>
 				</ul>
 			</div>	
