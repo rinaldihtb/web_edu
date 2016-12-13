@@ -115,7 +115,7 @@
 							<li>Free Website Template</li>
 						</ul>
 					</li>
-					<li>News</li>
+					<li><a href='?route=news/news'>News</a></li>
 					<li>About Us</li>
 				</ul>
 			</div>	
