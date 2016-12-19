@@ -102,7 +102,7 @@
 			<div class="panel_heading">
 				<ul>
 					<li><a href='?route=common/home'>Home</a></li>
-					<li>Tutorial
+					<li><a href='?route=tutorial/subject'>Tutorial</a>
 						<ul>
 							<li>HTML</li>
 							<li>PHP</li>
@@ -112,7 +112,7 @@
 					<li><a href='?route=forum/forum'>Forum</a></li>
 					<li>Download
 						<ul>
-							<li>Free Website Template</li>
+							<li><a href='?route=downtemp/downtemp'>Free Download Template</a></li>
 						</ul>
 					</li>
 					<li><a href='?route=news/news'>News</a></li>

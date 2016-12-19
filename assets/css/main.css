@@ -51,7 +51,7 @@ body {
 
 /* HEADER */
 
-.container > .header, .container-fluid > .header {
+.header {
 	//border:1px dashed green;
 	//height:200px;
 }
@@ -119,12 +119,12 @@ body {
 }
 
 /* SIDEBAR */
-.container > .row > .sidebar, .container-fluid > .row > .sidebar {
+.sidebar {
 	//border:1px dashed red;
 	height:auto;
 }
 
-.container > .row > .sidebar > ul.menu_sidebar, .containter-fluid > .row > .sidebar > ul.menu_sidebar {
+.sidebar > ul.menu_sidebar {
 	background:blue;
 	//border:1px solid green;
 	list-style:none;
@@ -132,11 +132,11 @@ body {
 	//padding-left:15px;
 	background-color:#555;
 }
-.container > .row > .sidebar > ul > li, .container-fluid > .row > .sidebar > ul > li {
+.sidebar > ul > li{
 	//background-color:blue;
 	//margin:2px;
 }
-.container > .row > .sidebar > ul > li  > span, .container-fluid > .row > .sidebar > ul > li  > span{
+.sidebar > ul > li  > span{
 	padding: 5px;
 	padding-left: 2px;
 	margin: 0px;
@@ -147,7 +147,7 @@ body {
 	padding-left:15px;
 }
 
-.container > .row > .sidebar > ul > li  > ul, .container-fluid > .row > .sidebar > ul > li  > ul {
+.sidebar > ul > li  > ul{
 	display:block;
 	list-style:none;
 	//padding-left:30px;
@@ -157,7 +157,7 @@ body {
 	//padding-left:30px;
 }
 
-.container > .row > .sidebar > ul > li  > ul > li, .container-fluid > .row > .sidebar > ul > li  > ul > li {
+.sidebar > ul > li  > ul > li {
 	//margin: 0;
 	background-color:#99FFCC;
 	padding: 5px;
@@ -166,19 +166,19 @@ body {
 	//margin-bottom:2px;
 }
 
-.container > .row > .sidebar > ul > li  > ul > li:hover, .container-fluid > .row > .sidebar > ul > li  > ul > li:hover {
+.sidebar > ul > li  > ul > li:hover{
 	background-color:#CCFFFF;
 
 }
 
 
 /* CONTENT */
-.container > .row > .content, .container-fluid > .row > .content {
+.content,{
 	//border:1px dashed green;
 	height:200px;
 }
 
-.container > .footer, .container-fluid > .footer > footer{
+.footer, .footer > footer{
 	//border:1px dashed cyan;
 	height:auto;
 }

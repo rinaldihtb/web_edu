@@ -50,4 +50,4 @@ if(isset($_GET['route'])) {
 } else {
 	$tools->redirect("http://{$_SERVER[HTTP_HOST]}/index.php?route=common/home");
 }
-?>
+?>	
