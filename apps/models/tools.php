@@ -8,6 +8,11 @@
 		public function ControllerChecker($path) {
 			
 		}
+		public function Output($data) {
+			foreach($data as $template) {
+				include("apps/views/{$template}");
+			}
+		}
 	}
 
 

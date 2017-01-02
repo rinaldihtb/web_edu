@@ -5,7 +5,7 @@
 				<li><a href="#">Home</a></li>
 				<li><a href="#">Tutorial</a></li>
 				<li><a href="#">HTML</a></li>
-				<li class='active'>lorem ipsum</li>
+				<li class='active'>lorem i</li>
 			</ul>
 		</div>
 	</div>

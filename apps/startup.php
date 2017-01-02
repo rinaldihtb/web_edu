@@ -40,9 +40,12 @@ if(isset($_GET['route'])) {
 		DEFINE("Controller", $controller_path);
 		$render = new $controller();
 		if(count($page_control)==3)
-			$render->$page_control[2]();
+			$RPATH = $page_control[2];
+			// $render->$page_control[2]();
 		else 
-			$render->index();
+			$RPATH = "index";
+
+		$render->$RPATH();
 		//include_once "apps/views/media.php";
 	} else {
 		$tools->redirect("404.php");
