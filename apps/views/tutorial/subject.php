@@ -2,10 +2,19 @@
 	<div class="col-sm-12">
 		<div class="bgcyan">
 			<ul class="breadcrumb">
-				<li><a href="#">Home</a></li>
-				<li><a href="#">Tutorial</a></li>
-				<li><a href="#">HTML</a></li>
-				<li class='active'>lorem i</li>
+				<?php 
+					for($i = 0;$i<count($breadcrumb);$i++) {
+						if($i==count($breadcrumb)-1) {
+							?>
+								<li class='active'><?php echo $breadcrumb[$i]['title']?></li>
+							<?php 
+							break;
+						}
+						?>
+							<li><a href="<?php echo $breadcrumb[$i]['href'];?>"><?php echo $breadcrumb[$i]['title'];?></a></li>
+						<?php 
+					}
+				?>
 			</ul>
 		</div>
 	</div>

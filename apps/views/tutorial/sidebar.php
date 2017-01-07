@@ -1,26 +1,24 @@
 <!-- FOR EVERY DEVICES EXCEPT MOBILE -->
 <ul class="menu_sidebar hidden-xs">
-	<li><span >HTML</span>
-		<ul>
-			<li>HTML</li>
-			<li>JAVASCRIPT</li>
-			<li>PHP</li>
-		</ul>
-	</li>
-	<li><span>JAVASCRIPT</span>
-		<ul>
-			<li>HTML</li>
-			<li>JAVASCRIPT</li>
-			<li>PHP</li>
-		</ul>
-	</li>
-	<li><span>PHP</span>
-		<ul>
-			<li>HTML</li>
-			<li>JAVASCRIPT</li>
-			<li>PHP</li>
-		</ul>
-	</li>
+	<?php 
+		foreach($sideList as $l_key => $list ) {
+			//$href = $sideList["$l_key"];
+			if(count(explode("_", $l_key))>1) continue;
+			?>
+				<li><span ><a href="<?php echo $sideList[$l_key.'_href']; ?>"><?php echo $l_key; ?></a></span>
+					<ul>
+						<?php 
+							foreach($list as $learnSub) {
+								?>
+									<li><a href="<?php echo $learnSub['href']?>"><?php echo $learnSub['nama']; ?></a></li>
+								<?php
+							}
+						?>
+					</ul>
+				</li>
+			<?php
+		}
+	?>
 </ul>
 
 <!-- FOR MOBILE -->

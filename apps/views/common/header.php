@@ -69,11 +69,18 @@
 			<div class="col-xs-5 col-xs-offset-5  col-sm-3 col-sm-offset-7 ">
 				<div class="row">
 					<div class="col-xs-12 "> 
-						<select>
+
+						<div id="google_translate_element"></div><script type="text/javascript">
+						function googleTranslateElementInit() {
+						  new google.translate.TranslateElement({pageLanguage: 'id', includedLanguages: 'en,id', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+						}
+						</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+						        
+						<!-- <select>
 							<option>Pilih Bahasa</option>
 							<option>Indonesia</option>
 							<option>English</option>
-						</select>
+						</select> -->
 					</div>
 				</div>
 				<div class="row">

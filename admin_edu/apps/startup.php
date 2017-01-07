@@ -48,9 +48,9 @@ if(isset($_GET['route'])) {
 		$render->$RPATH();
 		//include_once "apps/views/media.php";
 	} else {
-		//$tools->redirect("404.php");
+		$tools->redirect("404.php");
 	}
 } else {
-	//$tools->redirect("http://{$_SERVER[HTTP_HOST]}/index.php?route=common/home");
+	$tools->redirect("http://{$_SERVER[HTTP_HOST]}/admin_edu/index.php?route=common/home");
 }
 ?>	

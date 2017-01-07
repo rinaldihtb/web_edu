@@ -1,20 +1,20 @@
 <!-- FOR EVERY DEVICES EXCEPT MOBILE -->
 <div class="forumsidebars hidden-xs bgcyan">
 	<div class="subsidebar bgcyan">
-		<h4 class="head_sidebar">Recently Post</h4>
+		<h4 class="head_sidebar">Recently Article</h4>
 		<ul>
-			<li>Lorem ipsum dolor sit amet, consectetur.
-			<span>Lorem ipsum dolor sit amet...</span>
-			</li>
-			<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-			<span>Lorem ipsum dolor sit amet...</span>
-			</li>
-			<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-			<span>Lorem ipsum dolor sit amet...</span>
-			</li>
+			<?php 
+				foreach($recently_post as $rPost) {
+					?>
+						<li><a href="<?php echo $rPost['href']?>"><?php echo $rPost['judul']; ?></a>
+						<span><?php echo $rPost['konten']; ?></span>
+						</li>
+					<?php
+				}
+			?>
 		</ul>
 	</div>
-	<div class="subsidebar_tags bgcyan">
+	<!-- <div class="subsidebar_tags bgcyan">
 		<h4 class="head_sidebar">Related Tags</h4>
 		<ul>
 			<li>Lorem</li>
@@ -22,6 +22,14 @@
 			<li>ipsum</li>
 		</ul>
 	</div>
+	<div class="subsidebar bgcyan">
+		<h4 class="head_sidebar">TOP ARTICLE</h4>
+		<ul>
+			<li>Lorem ipsum dolor sit amet, consectetur.</li>
+			<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+			<li>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</li>
+		</ul>
+	</div> -->
 </div>
 
 <!-- FOR MOBILE -->
